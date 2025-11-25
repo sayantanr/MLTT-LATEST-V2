@@ -1,4 +1,4 @@
-# Multi-Language Translator & Transliterator with OCR, voice recording & Statistics
+# Multi-Language Translator & Transliterator with OCR,speech, voice recording and many more ....& Statistics
 
 A powerful, AI-powered translation and transliteration application that supports 120+ languages with built-in OCR capabilities, PDF processing, and comprehensive text statistics.
 
